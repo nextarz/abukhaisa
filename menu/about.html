@@ -75,11 +75,13 @@
 
   <!-- Footer -->
   <footer>
-    <p>© 2020-<span id="spanYear"></span> Abu Khaisa. All rights reserved.</p>
+    <p>© 2020<script type="text/javascript">
+new Date().getFullYear()>2020&&document.write("-"+ new Date().getFullYear());
+    </script> Abu Khaisa. All rights reserved.</p>
   </footer>
 
   <!-- Font Awesome & JS -->
   <script src="https://kit.fontawesome.com/4f55e25b2c.js" crossorigin="anonymous"></script>
-  <script src="../js/script.js">$('#spanYear').html(new Date().getFullYear());</script>
+  <script src="../js/script.js"></script>
 </body>
 </html>
