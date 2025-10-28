@@ -40,3 +40,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 });
+
+// copyright
+$('#spanYear').html(new Date().getFullYear());
