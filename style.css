@@ -61,7 +61,7 @@ nav {
 }
 
 .nav-links a {
-  color: #fff;
+  color: #d6c4a5;
   text-decoration: none;
   font-size: 18px;
   font-weight: 600;
@@ -237,7 +237,7 @@ section.active {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #fff;
+  color: #d6c4a5;
   text-decoration: none;
   transition: all 0.3s ease;
   font-size: 20px;
