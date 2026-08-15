@@ -182,7 +182,6 @@ function Portfolio() {
             >
               <div className="project-card">
                 <div className="project-image">
-                  {/* Ganti dengan: <img src="images/project2.jpg" alt="Portfolio" /> */}
                   <img src="images/project2.png" alt="Portfolio" />
                 </div>
                 <div className="project-info">
@@ -209,7 +208,6 @@ function Portfolio() {
             >
               <div className="project-card">
                 <div className="project-image">
-                  {/* Ganti dengan: <img src="images/project3.jpg" alt="Dashboard" /> */}
                   <img src="images/project3.png" alt="$NGELAG" />
                 </div>
                 <div className="project-info">
